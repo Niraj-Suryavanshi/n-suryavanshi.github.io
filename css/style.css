@@ -536,6 +536,7 @@ footer .copyright{
     color:var(--secondary);
     text-decoration:none;
     font-size: 2rem;
+    
 }
 
 @media (max-width:1024px){
@@ -633,3 +634,9 @@ footer .copyright{
     }
 }
 
+@media (max-width: 365px){
+header {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 68% 97%, 0 100%);
+    padding-bottom: 5rem;
+}
+}
