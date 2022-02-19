@@ -635,7 +635,7 @@ footer .copyright{
 
 @media (max-width: 365px){
 header {
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 73% 95%, 0 100%);
-    padding-bottom: 6rem;
+    /* clip-path: polygon(0 0, 100% 0, 100% 100%, 68% 97%, 0 100%); */
+    padding-bottom: 5rem;
 }
 }
