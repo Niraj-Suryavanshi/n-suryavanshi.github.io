@@ -633,9 +633,15 @@ footer .copyright{
     }
 }
 
-@media (max-width: 365px){
+@media(max-width:365px)
+{
+ 
 header {
+<<<<<<< HEAD
     clip-path: polygon(0 0, 100% 0, 100% 100%, 68% 97%, 0 100%);
     padding-bottom: 5rem;
+=======
+    clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 69% 100%, 0px 100%);
+>>>>>>> parent of ce5d778 (Update style.css)
 }
 }
