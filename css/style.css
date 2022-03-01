@@ -635,3 +635,9 @@ footer .copyright{
     }
 }
 
+@media(max-width:765px)
+{
+    .about{
+        flex-direction: row;
+    }
+}
