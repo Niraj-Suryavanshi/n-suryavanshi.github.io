@@ -635,9 +635,9 @@ footer .copyright{
     }
 }
 
-@media(max-width:765px)
+@media(max-width:980px)
 {
-    section.about{
+    .about-inner-wrap{
         flex-direction: column;
     }
 }
