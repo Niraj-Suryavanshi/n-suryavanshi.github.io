@@ -13,8 +13,9 @@ body{
 }
 
 html{
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
 }
+
 *{
     padding: 0;
     margin:0;
@@ -295,7 +296,6 @@ section.reviews .slider-dots button{
     -o-border-radius: 50px;
     cursor: pointer;
 }
-section.reviews .dots li.slick-active button{
     background:var(--primary);
     width:20px;
 }
