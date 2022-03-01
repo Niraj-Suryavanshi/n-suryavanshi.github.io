@@ -296,6 +296,7 @@ section.reviews .slider-dots button{
     -o-border-radius: 50px;
     cursor: pointer;
 }
+section.reviews .dots li.slick-active   {
     background:var(--primary);
     width:20px;
 }
