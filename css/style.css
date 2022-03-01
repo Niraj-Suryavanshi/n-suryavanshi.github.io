@@ -638,6 +638,6 @@ footer .copyright{
 @media(max-width:765px)
 {
     section.about{
-        flex-direction: row;
+        flex-direction: column;
     }
 }
