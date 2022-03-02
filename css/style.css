@@ -36,6 +36,9 @@ header{
     .container {
       max-width: 540px;
     }
+
+    
+
   }
   
   @media (min-width: 768px) {
@@ -634,6 +637,8 @@ footer .copyright{
     section.contact .input-wrap{
         grid-template-columns: repeat(1, 1fr);
     }
+
+    
 }
 
 @media(max-width:980px)
