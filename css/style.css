@@ -657,5 +657,14 @@ footer .copyright{
     }
 }
 
-
+@media(max-width:469px){
+  .btn-wrapper{
+    display:grid;
+   
+    grid-column-gap:1rem;
+    grid-row-gap:1rem;
+  }
+  
+ 
+}
 
